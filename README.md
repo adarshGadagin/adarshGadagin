@@ -10,7 +10,7 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adarshGadagin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://adarsh-portfolio-iota-seven.vercel.app/)
 
 </div>
 
